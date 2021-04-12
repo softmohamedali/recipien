@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Recipien</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="recibien">Recibien</string>
+    <string name="favivorit">Favivorit</string>
+    <string name="joke">joke</string>
+    <string name="no_connection_to_internet">No connection to internet</string>
+    <string name="img">img</string>
+    <string name="pizza">pizza</string>
+    <string name="cannot_create_an_instance_of_class_com_example_chatwithme_ui_auth_authviewmodel">Cannot create an instance of class com.example.chatwithme.ui.auth.AuthViewModel</string>
+    <string name="_100">100</string>
+    <string name="vegan">vegan</string>
+</resources>

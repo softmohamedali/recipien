@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/recipienFrafment">
+
+    <fragment
+        android:id="@+id/recipienFrafment"
+        android:name="com.example.recipien.ui.fragments.recipien.RecipienFrafment"
+        android:label="recipien"
+        tools:layout="@layout/fragment_recipien_frafment" />
+    <fragment
+        android:id="@+id/favioretFragment"
+        android:name="com.example.recipien.ui.fragments.favorit.FavioretFragment"
+        android:label="favioret"
+        tools:layout="@layout/fragment_favioret" />
+    <fragment
+        android:id="@+id/jokeFragment"
+        android:name="com.example.recipien.ui.fragments.joke.JokeFragment"
+        android:label="joke"
+        tools:layout="@layout/fragment_joke" />
+</navigation>
